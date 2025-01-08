@@ -1,7 +1,9 @@
 # Minima Blockchain MemeCoins
 
-## Powered by Minimina Coin (MiNi)
+## Powered by Minimina Coin
+### Ticker: **MiNi** 
 #### Token ID 0xA3F60AEB0F45DFB1B669ADA25448ED191AA2255E9E49B1F6732D08793F6A859B
+Minimina unites all memecoins on the Minima blockchain as the central liquidity pair, seamlessly linking them with native Minima coins. It empowers DeFi, fosters synergy, and drives a thriving, community-driven ecosystem.
 
 ## Lazy Llama
 ### Ticker: **Llama**  
