@@ -4,7 +4,7 @@
 
 ## Lazy Llama
 ### Ticker: **Llama**  
-### Token ID `0xE006EA56775A25E5FACC3DBEDC275101A4B0D09CC5DD84809096A6618273B0DE`
+#### Token ID 0xE006EA56775A25E5FACC3DBEDC275101A4B0D09CC5DD84809096A6618273B0DE
 
 The official currency of procrastination. Hold Lazy Llama and embrace the art of doing absolutely nothing.
 
