@@ -1,6 +1,7 @@
 # Minima Blockchain MemeCoins
 
 ## Powered by Minimina Coin (MiNi)
+#### Token ID 0xA3F60AEB0F45DFB1B669ADA25448ED191AA2255E9E49B1F6732D08793F6A859B
 
 ## Lazy Llama
 ### Ticker: **Llama**  
@@ -10,19 +11,19 @@ The official currency of procrastination. Hold Lazy Llama and embrace the art of
 
 ## Minima Inu
 ### Ticker: **MINU**  
-### Token ID
+#### Token ID 0xB4BFB5D5C9DC58085B8651D403FC092561ECB6981911B578663DE8FDC2F34AB7
 
 Minima Inu (MINU) is a vibrant memecoin on the Minima blockchain, featuring a cool Shiba Inu mascot with sunglasses. Combining fun and innovation, MINU unites meme lovers and blockchain enthusiasts, driving creativity and community engagement.
 
 ## Luna
 ### Ticker: **Luna**  
-### Token ID
+#### Token ID 0x7CCAA3EA53BF321081AE483D9F72F05CD54C4FCE560965ECDD8CEDFAD7D79C45
 
 Luna is a vibrant memecoin on the Minima blockchain, symbolizing growth and innovation. Featuring a glowing moon-like gradient and a golden rim with circuitry, it combines elegance with blockchain security, bridging fun and utility for creative projects.
 
 ## Minicorn
 ### Ticker: **MCORN**  
-### Token ID
+### Token ID 0x868C4845CD5973424B191BA571E4163A8D7A1684CEB156F3D93939D0666E4BF8
 
 **Tagline:** "The tiniest unicorn in the blockchain forest."  
 
