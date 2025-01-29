@@ -30,3 +30,12 @@ Luna is a vibrant memecoin on the Minima blockchain, symbolizing growth and inno
 **Tagline:** "The tiniest unicorn in the blockchain forest."  
 
 Minicorn is a unicorn-themed meme coin on the Minima blockchain, symbolizing the rare and magical potential of decentralized technology. It captures the spirit of innovation and creativity within the Minima ecosystem, offering a fun and lighthearted way to engage with blockchain technology. Minicorn represents the limitless possibilities of decentralization, making it the perfect token for those looking to explore the future of crypto in a playful, community-driven environment.
+
+## MiniDoge
+### Ticker: **DOGE**  
+### Token ID 0x31105BC3ABCD3118B31E324AFB7502B0B77CC0356F2FA23AACBD43CF743BAF51
+
+**MiniDoge (DOGE)**  
+
+MiniDoge is the ultimate memecoin on the Minima blockchain, blending the iconic Doge meme with decentralized innovation. Featuring a cool Shiba Inu wearing sunglasses, this coin represents fun, community, and financial freedom. Built on Minima’s lightweight, fully decentralized network, MiniDoge ensures seamless transactions with no middlemen. With a strong meme culture and a focus on decentralization, **DOGE** is set to become the go-to token for meme enthusiasts and crypto lovers alike. 🚀
+
