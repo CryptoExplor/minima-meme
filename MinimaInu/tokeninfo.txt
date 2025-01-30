@@ -1,0 +1,33 @@
+{
+  "command": "balance",
+  "params": {
+    "tokenid": "0xB4BFB5D5C9DC58085B8651D403FC092561ECB6981911B578663DE8FDC2F34AB7",
+    "tokendetails": "true"
+  },
+  "status": true,
+  "pending": false,
+  "response": [
+    {
+      "token": {
+        "name": "Minima Inu",
+        "url": "https://github.com/CryptoExplor/minima-meme/blob/main/MinimaInu/MinimaInu.jpeg?raw=true",
+        "description": "Minima Inu (MINU) is a vibrant memecoin on the Minima blockchain, featuring a cool Shiba Inu mascot with sunglasses. Combining fun and innovation, MINU unites meme lovers and blockchain enthusiasts, driving creativity and community engagement.",
+        "ticker": "MINU",
+        "webvalidate": "https://raw.githubusercontent.com/CryptoExplor/minima-meme/refs/heads/main/MinimaInu/MinimaInu.txt"
+      },
+      "tokenid": "0xB4BFB5D5C9DC58085B8651D403FC092561ECB6981911B578663DE8FDC2F34AB7",
+      "confirmed": "1000000000000",
+      "unconfirmed": "0",
+      "sendable": "1000000000000",
+      "coins": "10",
+      "total": "1000000000000",
+      "details": {
+        "decimals": 8,
+        "script": "RETURN TRUE",
+        "totalamount": "0.000000000000000000000001",
+        "scale": "36",
+        "created": "1253372"
+      }
+    }
+  ]
+}
