@@ -1,0 +1,33 @@
+{
+  "command": "balance",
+  "params": {
+    "tokenid": "0x31105BC3ABCD3118B31E324AFB7502B0B77CC0356F2FA23AACBD43CF743BAF51",
+    "tokendetails": "true"
+  },
+  "status": true,
+  "pending": false,
+  "response": [
+    {
+      "token": {
+        "name": "MiniDoge",
+        "url": "https://github.com/CryptoExplor/minima-meme/blob/main/minidoge/minidoge.jpeg?raw=true",
+        "description": "MiniDoge is Minima’s top memecoin, blending the iconic Doge meme with true decentralization. Featuring a cool Shiba Inu, it represents fun, community, and financial freedom. Fast and secure, DOGE is the go-to token for meme and crypto lovers. 🚀",
+        "ticker": "DOGE",
+        "webvalidate": "https://raw.githubusercontent.com/CryptoExplor/minima-meme/refs/heads/main/minidoge/minidoge.txt"
+      },
+      "tokenid": "0x31105BC3ABCD3118B31E324AFB7502B0B77CC0356F2FA23AACBD43CF743BAF51",
+      "confirmed": "1000000000000",
+      "unconfirmed": "0",
+      "sendable": "1000000000000",
+      "coins": "10",
+      "total": "1000000000000",
+      "details": {
+        "decimals": 8,
+        "script": "RETURN TRUE",
+        "totalamount": "0.000000000000000000000001",
+        "scale": "36",
+        "created": "1291362"
+      }
+    }
+  ]
+}
