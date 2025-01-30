@@ -1,0 +1,33 @@
+{
+  "command": "balance",
+  "params": {
+    "tokenid": "0xE006EA56775A25E5FACC3DBEDC275101A4B0D09CC5DD84809096A6618273B0DE",
+    "tokendetails": "true"
+  },
+  "status": true,
+  "pending": false,
+  "response": [
+    {
+      "token": {
+        "name": "Lazy Llama",
+        "url": "https://github.com/CryptoExplor/minima-meme/blob/main/LazyLlama/LazyLlama.jpeg?raw=true",
+        "description": "The official currency of procrastination. Hold Lazy Llama and embrace the art of doing absolutely nothing.",
+        "ticker": "Llama",
+        "webvalidate": "https://raw.githubusercontent.com/CryptoExplor/minima-meme/refs/heads/main/LazyLlama/LazyLlama.txt"
+      },
+      "tokenid": "0xE006EA56775A25E5FACC3DBEDC275101A4B0D09CC5DD84809096A6618273B0DE",
+      "confirmed": "1000000000000",
+      "unconfirmed": "0",
+      "sendable": "1000000000000",
+      "coins": "10",
+      "total": "1000000000000",
+      "details": {
+        "decimals": 8,
+        "script": "RETURN TRUE",
+        "totalamount": "0.000000000000000000000001",
+        "scale": "36",
+        "created": "1255042"
+      }
+    }
+  ]
+}
