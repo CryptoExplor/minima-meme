@@ -1,0 +1,33 @@
+{
+  "command": "balance",
+  "params": {
+    "tokenid": "0x7CCAA3EA53BF321081AE483D9F72F05CD54C4FCE560965ECDD8CEDFAD7D79C45",
+    "tokendetails": "true"
+  },
+  "status": true,
+  "pending": false,
+  "response": [
+    {
+      "token": {
+        "name": "Luna",
+        "url": "https://github.com/CryptoExplor/minima-meme/blob/main/luna/luna.jpeg?raw=true",
+        "description": "Luna is a vibrant memecoin on the Minima blockchain, symbolizing growth and innovation. Featuring a glowing moon-like gradient and a golden rim with circuitry, it combines elegance with blockchain security, bridging fun and utility for creative projects.",
+        "ticker": "Luna",
+        "webvalidate": "https://raw.githubusercontent.com/CryptoExplor/minima-meme/refs/heads/main/luna/luna.txt"
+      },
+      "tokenid": "0x7CCAA3EA53BF321081AE483D9F72F05CD54C4FCE560965ECDD8CEDFAD7D79C45",
+      "confirmed": "1000000000000",
+      "unconfirmed": "0",
+      "sendable": "1000000000000",
+      "coins": "10",
+      "total": "1000000000000",
+      "details": {
+        "decimals": 8,
+        "script": "RETURN TRUE",
+        "totalamount": "0.000000000000000000000001",
+        "scale": "36",
+        "created": "1255048"
+      }
+    }
+  ]
+}
