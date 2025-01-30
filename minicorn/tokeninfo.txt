@@ -1,0 +1,33 @@
+{
+  "command": "balance",
+  "params": {
+    "tokenid": "0x868C4845CD5973424B191BA571E4163A8D7A1684CEB156F3D93939D0666E4BF8",
+    "tokendetails": "true"
+  },
+  "status": true,
+  "pending": false,
+  "response": [
+    {
+      "token": {
+        "name": "Minicorn",
+        "url": "https://github.com/CryptoExplor/minima-meme/blob/main/minicorn/minicorn.jpeg?raw=true",
+        "description": "A unicorn-themed meme coin on the Minima blockchain, symbolizing the magical potential of decentralized tech. Minicorn is a fun, community-driven token for exploring the limitless possibilities of crypto.",
+        "ticker": "MCORN",
+        "webvalidate": "https://raw.githubusercontent.com/CryptoExplor/minima-meme/refs/heads/main/minicorn/minicorn.txt"
+      },
+      "tokenid": "0x868C4845CD5973424B191BA571E4163A8D7A1684CEB156F3D93939D0666E4BF8",
+      "confirmed": "1000000000000",
+      "unconfirmed": "0",
+      "sendable": "1000000000000",
+      "coins": "10",
+      "total": "1000000000000",
+      "details": {
+        "decimals": 8,
+        "script": "RETURN TRUE",
+        "totalamount": "0.000000000000000000000001",
+        "scale": "36",
+        "created": "1255061"
+      }
+    }
+  ]
+}
